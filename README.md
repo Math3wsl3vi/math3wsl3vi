@@ -8,10 +8,11 @@ Welcome to my GitHub repository! I'm Levi Mathews, a passionate Front End Develo
 I thrive on creating visually appealing and user-friendly interfaces. My skills range from crafting pixel-perfect designs to implementing efficient and responsive front-end solutions. While my primary focus is on the front end, I also enjoy delving into the intricacies of back-end development to create seamless, end-to-end user experiences.
 
 ## Projects
-### Project 1: [Project Name]
-📝 _Description:_ Briefly describe the project, its purpose, and the technologies used.
+### Project 1: [Law Firm]
+📝 Working on a law firm website for advertisment and marketing.
+It utilises HTML, CSS, Javascript and PHP.
 
-### Project 2: [Project Name]
+### Project 2: [Pierpont website]
 📝 _Description:_ Briefly describe the project, its purpose, and the technologies used.
 
 ### Project 3: [Project Name]
