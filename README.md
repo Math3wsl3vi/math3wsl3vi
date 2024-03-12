@@ -34,8 +34,8 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
   - npm, yarn
 
 ## Contact
-- **LinkedIn:** [Levi Mathews on LinkedIn](https://www.linkedin.com/in/levimathews/) 🌐
-- **Email:** [levi.mathews@example.com](mailto:levi.mathews@example.com) 📧
+- **LinkedIn:** [Levi Mathews on LinkedIn](www.linkedin.com/in/mathews-levi-3140372b3) 🌐
+- **Email:** [levi.mathews@example.com](mailto:kmathewslevi@gmail.com) 📧
 - **Portfolio:** [levimathews.dev](https://www.levimathews.dev/) 💼
 
 Feel free to reach out for collaboration, questions about my projects, or just to say hi!
