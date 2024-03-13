@@ -13,16 +13,17 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 It utilises HTML, CSS, Javascript and PHP.
 
 ### Project 2: [Pierpont website]
-📝 _Description:_ Briefly describe the project, its purpose, and the technologies used.
+📝 This is a simple furniture website for avertisement and marketing.
+Made entirerly by HTML, CSS and javascript.
 
 ### Project 3: [Project Name]
 📝 _Description:_ Briefly describe the project, its purpose, and the technologies used.
 
 ## Skills
 - **Front End Technologies:**
-  - HTML5, CSS3, JavaScript (ES6+)
-  - React, Vue.js
-  - Responsive Web Design, Cross-Browser Compatibility
+  - HTML5, CSS, JavaScript 
+
+    
   
 - **Back End Technologies:**
   - Node.js
@@ -38,7 +39,7 @@ It utilises HTML, CSS, Javascript and PHP.
 - **LinkedIn:** [Levi Mathews on LinkedIn](www.linkedin.com/in/mathews-levi-3140372b3) 🌐
 - **Email:** [levi.mathews@example.com](mailto:kmathewslevi@gmail.com) 📧
 - **Portfolio:** [levimathews.dev](https://www.levimathews.dev/) 💼
-- **Reach out:**[tel:0111971600]
+- **Reach out:**[tel:+254111971600]
 
 Feel free to reach out for collaboration, questions about my projects, or just to say hi!
 
