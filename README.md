@@ -16,8 +16,9 @@ It utilises HTML, CSS, Javascript and PHP.
 📝 This is a simple furniture website for avertisement and marketing.
 Made entirerly by HTML, CSS and javascript.
 
-### Project 3: [Project Name]
-📝 _Description:_ Briefly describe the project, its purpose, and the technologies used.
+### Project 3: [random password generator]
+📝 This is basically a random password generator
+Made with HTML, CSS and Javascript.
 
 ## Skills
 - **Front End Technologies:**
@@ -29,11 +30,12 @@ Made entirerly by HTML, CSS and javascript.
   - Node.js
   - Express.js
   - MongoDB
+  - MySql
 
 - **Tools and Platforms:**
   - Git, GitHub
-  - VS Code, Sublime Text
-  - npm, yarn
+  - VS Code
+
 
 ## Contact
 - **LinkedIn:** [Levi Mathews on LinkedIn](www.linkedin.com/in/mathews-levi-3140372b3) 🌐
