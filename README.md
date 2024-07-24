@@ -9,13 +9,10 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 
 ## Skills
 - **Front End Technologies:**
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-
-
-
-    
-  
+    - HTML
+    - CSS5
+    - Javascript
+      
 - **Back End Technologies:**
   - Node.js
   - Express.js
