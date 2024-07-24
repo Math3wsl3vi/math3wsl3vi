@@ -11,6 +11,9 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 - **Front End Technologies:**
 ![Python](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg)
 ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+
 
 
     
