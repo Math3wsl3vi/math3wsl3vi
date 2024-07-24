@@ -7,22 +7,11 @@ Welcome to my GitHub repository! I'm Levi Mathews, a passionate Front End Develo
 ## About Me
 I thrive on creating visually appealing and user-friendly interfaces. My skills range from crafting pixel-perfect designs to implementing efficient and responsive front-end solutions. While my primary focus is on the front end, I also enjoy delving into the intricacies of back-end development to create seamless, end-to-end user experiences.
 
-## Projects
-### Project 1: [Law Firm Website]
-📝 Working on a law firm website for advertisment and marketing.
-It utilises HTML, CSS, Javascript and PHP.
-
-### Project 2: [Pierpont website]
-📝 This is a simple furniture website for avertisement and marketing.
-Made entirerly by HTML, CSS and javascript.
-
-### Project 3: [random password generator]
-📝 This is basically a random password generator
-Made with HTML, CSS and Javascript.
-
 ## Skills
 - **Front End Technologies:**
-  - HTML5, CSS, JavaScript 
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg)
+![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg)
+
 
     
   
@@ -38,14 +27,11 @@ Made with HTML, CSS and Javascript.
 
 
 ## Contact
-- **LinkedIn:** [Levi Mathews on LinkedIn](www.linkedin.com/in/mathews-levi-3140372b3) 🌐
+- **LinkedIn:** [Levi Mathews on LinkedIn](https://bit.ly/3WB0gsX) 🌐
 - **Email:** [levi.mathews@example.com](mailto:kmathewslevi@gmail.com) 📧
 - **Portfolio:** [levimathews.dev](https://www.levimathews.dev/) 💼
 - **Reach out:**[tel:+254111971600]
 
 Feel free to reach out for collaboration, questions about my projects, or just to say hi!
-
-## How to Reach Me
-You can contact me through [LinkedIn](https://www.linkedin.com/in/levimathews/) or [email](mailto:levi.mathews@example.com). I'm always open to exciting opportunities, discussions, and collaborations.
 
 Thank you for visiting my GitHub! 🚀
