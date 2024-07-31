@@ -14,9 +14,11 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 
 <div>
  <h1>My Stats</h1>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=math3wsl3vi" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=math3wsl3vi" alt="GitHub Streak" />
+ </a>
  <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=math3wsl3vi&layout=compact&langs_count=8&card_width=320" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=math3wsl3vi&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
 
