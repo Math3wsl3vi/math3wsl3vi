@@ -15,7 +15,6 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 <div>
  <h1>My Stats</h1>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=math3wsl3vi" alt="GitHub Streak" /></a>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=math3wsl3vi)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
