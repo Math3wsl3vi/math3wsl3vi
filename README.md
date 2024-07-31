@@ -12,8 +12,11 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongo,tailwind)](https://skillicons.dev)
 
 
-Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=math3wsl3vi" alt="GitHub Streak" /></a>
+<div>
+ <h1>My Stats</h1>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=math3wsl3vi" alt="GitHub Streak" /></a>
+</div>
+
 
 
 ## Contact
