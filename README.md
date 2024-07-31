@@ -12,6 +12,10 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongo,tailwind)](https://skillicons.dev)
 
 
+Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=math3wsl3vi)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=math3wsl3vi" alt="GitHub Streak" /></a>
+
 
 ## Contact
 - **LinkedIn:** [Levi Mathews on LinkedIn](https://bit.ly/3WB0gsX) 🌐
