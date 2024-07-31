@@ -29,7 +29,7 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 ## Contact
 - **LinkedIn:** [Levi Mathews on LinkedIn](https://bit.ly/3WB0gsX) 🌐
 - **Email:** [levi.mathews@example.com](mailto:kmathewslevi@gmail.com) 📧
-- **Portfolio:** [levimathews.dev](https://www.levimathews.dev/) 💼
+- **Portfolio:** [levimathews.dev]((https://math3wsl3vi.github.io/mathews-portfolio/)) 💼
 - **Reach out:**[tel:+254111971600]
 
 Feel free to reach out for collaboration, questions about my projects, or just to say hi!
