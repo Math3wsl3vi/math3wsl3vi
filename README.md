@@ -13,7 +13,6 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 
 
 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=math3wsl3vi)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=math3wsl3vi" alt="GitHub Streak" /></a>
 
 
