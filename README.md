@@ -9,7 +9,7 @@ Welcome to my GitHub repository! I'm Levi Mathews, a passionate Front End Develo
 I thrive on creating visually appealing and user-friendly interfaces. My skills range from crafting pixel-perfect designs to implementing efficient and responsive front-end solutions. While my primary focus is on the front end, I also enjoy delving into the intricacies of back-end development to create seamless, end-to-end user experiences.
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongo,tailwind,kotlin,nextjs,nodejs,postgres,sass,ts,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongo,tailwind,firebase,kotlin,nextjs,nodejs,postgres,sass,ts,vite)](https://skillicons.dev)
 
 
 <div>
