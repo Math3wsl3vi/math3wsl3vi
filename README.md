@@ -3,7 +3,7 @@
 # Levi Mathews - Front End Developer 👨‍💻
 
 ## Introduction
-Welcome to my GitHub repository! I'm Levi Mathews, a passionate Front End Developer with a touch of Back End expertise. This is where I showcase my projects, experiments, and contributions to the world of web development.
+Hi, I’m Levi, a passionate Computer Science student at Kabarak University with a focus on frontend development and expertise in building web and Android applications using React and React Native. I enjoy creating intuitive, user-focused digital experiences, including eCommerce platforms and mobile apps. I am continuously honing my skills in full-stack development and leveraging technology to make a global impact.
 
 ## About Me
 I thrive on creating visually appealing and user-friendly interfaces. My skills range from crafting pixel-perfect designs to implementing efficient and responsive front-end solutions. While my primary focus is on the front end, I also enjoy delving into the intricacies of back-end development to create seamless, end-to-end user experiences.
