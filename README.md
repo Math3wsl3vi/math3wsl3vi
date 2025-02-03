@@ -18,6 +18,10 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
   <img height="200" align="center" src="https://streak-stats.demolab.com?user=math3wsl3vi" alt="GitHub Streak" />
  </a>
  <br><br>
+ <a href=''>
+  <img height='200' align='center' src='https://github-readme-stats.vercel.app/api?username=GideonNgetich&show_icons=true&theme=tokyonight'/>
+ </a>
+ <br><br>
  <a href="https://github.com/anuraghazra/convoychat">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=math3wsl3vi&layout=compact&langs_count=8&card_width=320" />
 </a>
