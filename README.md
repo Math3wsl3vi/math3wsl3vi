@@ -19,7 +19,7 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
  </a>
  <br><br>
  <a href=''>
-  <img height='200' align='center' src='https://github-readme-stats.vercel.app/api?username=GideonNgetich&show_icons=true&theme=tokyonight'/>
+  <img height='200' align='center' src='https://github-readme-stats.vercel.app/api?username=math3wsl3vi&show_icons=true&theme=tokyonight'/>
  </a>
  <br><br>
  <a href="https://github.com/anuraghazra/convoychat">
