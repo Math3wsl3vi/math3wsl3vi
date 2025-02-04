@@ -28,6 +28,8 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=math3wsl3vi&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
+<h1>My Stars</h1>
+<img src="https://img.shields.io/github/stars/math3wsl3vi/repo?style=for-the-badge"/>
 
 
 
