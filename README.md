@@ -16,7 +16,7 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
  <h1>My Stats</h1>
  <div style={{display:'flex', flex-direction:'row'}}>
  <a href="https://git.io/streak-stats">
-  <img height="200" align="center" src="https://streak-stats.demolab.com?user=math3wsl3vi" alt="GitHub Streak" />
+  <img height='200' align='center' href="https://streak-stats.demolab.com?user=math3wsl3vi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats"/>
  </a>
  <br><br>
  <a href=''>
