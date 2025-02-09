@@ -12,25 +12,26 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongo,tailwind,firebase,kotlin,nextjs,nodejs,postgres,sass,ts,vite)](https://skillicons.dev)
 
 
-<div>
- <h1>My Stats</h1>
- <div style={{display:'flex', flex-direction:'row'}}>
- <a href="https://git.io/streak-stats">
-  ### 📊 GitHub Stats
-![Levi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+## 📊 My Stats
 
- <br><br>
- <a href=''>
-  <img height='200' align='center' src='https://github-readme-stats.vercel.app/api?username=math3wsl3vi&show_icons=true&theme=tokyonight'/>
- </a>
- </div>
- <br><br>
- <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=math3wsl3vi&layout=compact&langs_count=8&card_width=320" />
+<div align="center">
+
+<a href="https://github-readme-streak-stats.herokuapp.com">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=math3wsl3vi&show_icons=true&theme=tokyonight"/>
 </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=math3wsl3vi&layout=compact&langs_count=8&card_width=320"/>
+</a>
+
 </div>
-<h1>My Stars</h1>
-<img src="https://img.shields.io/github/stars/math3wsl3vi/repo?style=for-the-badge"/>
+
+---
+
+## ⭐ My Stars
+
+<img src="https://img.shields.io/github/stars/math3wsl3vi/YOUR_REPO_NAME?style=for-the-badge"/>
+
 
 
 
