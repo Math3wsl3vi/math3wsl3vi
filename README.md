@@ -14,7 +14,7 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 
 ## 📊 My Stats
 
-<div align="center">
+<div align="left">
 
 <a href="https://github-readme-stats.vercel.app/api?username=math3wsl3vi">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=math3wsl3vi&show_icons=true&theme=tokyonight"/>
