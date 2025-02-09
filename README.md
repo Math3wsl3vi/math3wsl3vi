@@ -16,8 +16,9 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
  <h1>My Stats</h1>
  <div style={{display:'flex', flex-direction:'row'}}>
  <a href="https://git.io/streak-stats">
-  <img height='200' align='center' href="https://streak-stats.demolab.com?user=your-github-username&theme=dark&hide_border=true"/>
- </a>
+  ### 📊 GitHub Stats
+![Levi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
  <br><br>
  <a href=''>
   <img height='200' align='center' src='https://github-readme-stats.vercel.app/api?username=math3wsl3vi&show_icons=true&theme=tokyonight'/>
