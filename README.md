@@ -16,6 +16,11 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 
 <div align="center">
 
+<a href="https://git.io/streak-stats">
+  <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=math3wsl3vi&theme=tokyonight"/>
+</a>
+
+
 <a href="https://github-readme-streak-stats.herokuapp.com">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=math3wsl3vi&show_icons=true&theme=tokyonight"/>
 </a>
