@@ -1,9 +1,14 @@
 <h1 align="center"
  Hi there 👋
-# Levi Mathews - Front End Developer 👨‍💻
+# Levi Mathews - Fullstack Developer 👨‍💻
 
 ## Introduction
 Hi, I’m Levi, a passionate Computer Science student at Kabarak University with a focus on frontend development and expertise in building web and Android applications using React and React Native. I enjoy creating intuitive, user-focused digital experiences, including eCommerce platforms and mobile apps. I am continuously honing my skills in full-stack development and leveraging technology to make a global impact.
+## Real Rap
+- Wanna talk tech stuff, hit me up.
+- I'm 6'7.
+- React and React Native Developer.
+- No days off!
 
 ## About Me
 I thrive on creating visually appealing and user-friendly interfaces. My skills range from crafting pixel-perfect designs to implementing efficient and responsive front-end solutions. While my primary focus is on the front end, I also enjoy delving into the intricacies of back-end development to create seamless, end-to-end user experiences.
