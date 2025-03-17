@@ -8,6 +8,7 @@ Hi, I’m Levi, a passionate Computer Science student at Kabarak University with
 - Wanna talk tech stuff, hit me up.
 - I'm 6'7.
 - React and React Native Developer.
+- Vue js Developer.
 - No days off!
 
 ## About Me
