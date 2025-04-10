@@ -3,7 +3,7 @@
 # Levi Mathews - Fullstack Developer 👨‍💻
 
 ## Introduction
-Hi, I’m Levi, a passionate Computer Science student at Kabarak University with a focus on fullstack development and expertise in building web and Android applications using React and React Native. I enjoy creating intuitive, user-focused digital experiences, including eCommerce platforms and mobile apps. I am continuously honing my skills in full-stack development and leveraging technology to make a global impact.
+I'm Batman!
 ## Real Rap
 - Wanna talk tech stuff, hit me up.
 - I'm 6'7.
