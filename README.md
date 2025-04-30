@@ -3,10 +3,9 @@
 # Levi Mathews - Fullstack Developer 👨‍💻
 
 ## Introduction
-I'm Batman!
+Hi I am Levi, a full stack developer based in Nakuru, Kenya.
 ## Real Rap
 - Wanna talk tech stuff, hit me up.
-- I'm 6'7.
 - React and React Native Developer.
 - Vue js Developer.
 - No days off!
@@ -58,4 +57,4 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 
 Feel free to reach out for collaboration, questions about my projects, or just to say hi!
 
-Thank you for visiting my Onlyfans! 🚀
+Thank you for visiting my Github! 🚀
