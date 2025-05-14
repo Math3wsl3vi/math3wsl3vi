@@ -43,14 +43,14 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 
 ## ⭐ My Stars
 
-<img src="https://img.shields.io/github/stars/math3wsl3vi/YOUR_REPO_NAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/math3wsl3vi/math3wsl3vi?style=for-the-badge"/>
 
 
 
 
 
 ## Contact
-- **LinkedIn:** [Levi Mathews on LinkedIn]([www.linkedin.com/in/levi-mathews-math3wsl3vi](https://www.linkedin.com/in/levi-mathews-math3wsl3vi/)) 🌐
+- **LinkedIn:** [Levi Mathews on LinkedIn](https://www.linkedin.com/in/levi-mathews-math3wsl3vi/) 🌐
 - **Email:** [levi.mathews@example.com](mailto:kmathewslevi@gmail.com) 📧
 - **Portfolio:** [levimathews.dev](https://math3wsl3vi.github.io/mathews-portfolio/) 💼
 - **Reach out:**[tel:+254111971600]
