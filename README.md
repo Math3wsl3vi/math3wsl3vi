@@ -21,12 +21,10 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 
 <div align="left">
 
-<a href="https://github-readme-stats.vercel.app/api?username=math3wsl3vi">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=math3wsl3vi&show_icons=true&theme=tokyonight"/>
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?math3wsl3vi=math3wsl3vi&show_icons=true&theme=tokyonight)
-
+<a href="https://github.com/math3wsl3vi/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=math3wsl3vi&show_icons=true&theme=tokyonight" alt="math3wsl3vi’s GitHub stats" />
 </a>
+
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=math3wsl3vi">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=math3wsl3vi&layout=compact&langs_count=8&theme=tokyonight"/>
