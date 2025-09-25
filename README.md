@@ -21,9 +21,6 @@ I thrive on creating visually appealing and user-friendly interfaces. My skills 
 
 <div align="left">
 
-<!-- Grade Badge -->
-<img src="https://img.shields.io/badge/Grade-A%2B-brightgreen" alt="Grade A+" />
-
 <!-- GitHub Stats Card -->
 <a href="https://github.com/math3wsl3vi/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=math3wsl3vi&show_icons=true&theme=tokyonight" alt="math3wsl3vi’s GitHub stats" />
