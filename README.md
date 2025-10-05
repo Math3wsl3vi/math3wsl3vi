@@ -3,7 +3,7 @@
 # Levi Mathews - Fullstack Developer 👨‍💻
 
 ## Introduction
-Hi I am Levi, a full stack developer based in Nakuru, Kenya.
+Hi I am Levi, a full stack developer based in Nairobi, Kenya.
 ## Real Rap
 - Wanna talk tech stuff, hit me up.
 - React and React Native Developer.
