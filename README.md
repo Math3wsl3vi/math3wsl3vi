@@ -11,7 +11,7 @@ Hi I am Levi, a full stack developer based in Nairobi, Kenya.
 - No days off!
 
 ## About Me
-I thrive on creating visually appealing and user-friendly interfaces. My skills range from crafting pixel-perfect designs to implementing efficient and responsive front-end solutions and back-end development to create seamless, end-to-end user experiences.
+I thrive on creating visually appealing and user-friendly interfaces. My skills range from crafting pixel perfect designs to implementing efficient and responsive front-end solutions and back-end development to create seamless, end-to-end user experiences.
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongo,tailwind,firebase,kotlin,nextjs,nodejs,postgres,sass,ts,vite)](https://skillicons.dev)
