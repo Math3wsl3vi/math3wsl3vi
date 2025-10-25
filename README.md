@@ -122,22 +122,6 @@ A personal and business finance system for budgeting, saving, investing, and ana
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Math3wsl3vi&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Levi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Math3wsl3vi&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ## ✨ What I Bring to the Table
 
 
