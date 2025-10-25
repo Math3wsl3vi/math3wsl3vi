@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Fakii Mohammed
+# Hi there 👋 I'm Levi Kulei
 
 <div align="center">
   
@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-Fullstack Engineer | UI/UX Designer | Data Analyst | ML Enthusiast
+Fullstack Engineer | UI/UX Designer | Mobile Developer | ML Enthusiast | Jazz Pianist
 
-Currently innovating at **Kabarak University** and interning at **HealthIT Organization**, I transform complex problems into elegant, user-centered solutions. Passionate about building high-performance web and mobile applications that make a real-world impact.
+Currently innovating at **Kabarak University** and interning at **Mantle Kenya**, I transform complex problems into elegant, user-centered solutions. Passionate about building high-performance web and mobile applications that make a real-world impact.
 
 ### 💡 Real Talk
 - 👨🏻‍💻 Currently building: **AmiTech Donation Web** with Mpesa integration
