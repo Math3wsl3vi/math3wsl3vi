@@ -107,12 +107,16 @@ A personal and business finance system for budgeting, saving, investing, and ana
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Levis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Math3wsl3vi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Math3wsl3vi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<a href="https://github.com/Math3wsl3vi">
+  <img src="https://github-readme-stats.vercel.app/api?username=Math3wsl3vi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+</a>
+<a href="https://github.com/Math3wsl3vi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3wsl3vi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
+</a>
 
 </div>
+
 
 ## 🔥 Streak Stats
 
