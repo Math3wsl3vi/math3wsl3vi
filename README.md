@@ -126,8 +126,7 @@ A personal and business finance system for budgeting, saving, investing, and ana
 
 </div>
 
-https://dev.to/math3wsl3vi/
-
+ 
 📫 Let’s Connect!
 - 💼 **Portfolio:** [levikulei.com](levi-kulei.vercel.app)
 - 💼 **BLog:** [Blog](https://dev.to/math3wsl3vi/)
@@ -136,7 +135,7 @@ https://dev.to/math3wsl3vi/
 - 💼 **LinkedIn:** [math3wsl3vi](https://www.linkedin.com/in/levi-mathews-math3wsl3vi/)
 ---
 
-<div align="center">
+<div align="left">
   
 [![GitHub followers](https://img.shields.io/github/followers/Math3wsl3vi?style=for-the-badge&color=blue)](https://github.com/Math3wsl3vi)
 [![GitHub Stars](https://img.shields.io/github/stars/Math3wsl3vi?style=for-the-badge&color=yellow)](https://github.com/Math3wsl3vi)
