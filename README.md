@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Fullstack Engineer | UI/UX Designer | Mobile Developer | Frontend Developer 
+Fullstack Engineer | UI/UX Designer | Mobile Developer | Frontend Developer | ML Enthusiast
 
 Currently studying at **Kabarak University** and interning at **Mantle Kenya**, I transform complex problems into elegant, user-centered solutions. Passionate about building high-performance web and mobile applications that make a real-world impact.
 
@@ -60,7 +60,7 @@ Currently studying at **Kabarak University** and interning at **Mantle Kenya**, 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-🌍 Featured Projects
+### 🌍 Featured Projects
 ### 📊 [RiviaMed](https://riviamedsystem.vercel.app/)
 A comprehensive hospital management system streamlining workflows from reception to pharmacy. Includes patient record management, billing, appointment scheduling, and an integrated prescription reminder app.
 
