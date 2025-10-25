@@ -126,16 +126,6 @@ A personal and business finance system for budgeting, saving, investing, and ana
 
 </div>
 
-## ✨ What I Bring to the Table
-
-
-✅ **Analytical Thinking** - Transform complex challenges into efficient, scalable solutions 
-✅ **Lifelong Learning** - Enthusiastic about staying updated with new technologies and industry standards
-✅ **Team Collaboration** - Skilled at working with global teams and contributing to open-source projects 
-✅ **Code Excellence** - Committed to clean code, thorough testing, and clear documentation
-✅ **User-Focused Development** - Prioritize accessibility, speed, and seamless responsiveness
-
-
 📫 Let’s Connect!
 - 💼 **Portfolio:** [levikulei.com](levi-kulei.vercel.app)
 - 📧 **Email:** [levimathews9841@gmail.com](mailto:levimathews9841@gmail.com)
