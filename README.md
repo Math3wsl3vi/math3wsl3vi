@@ -157,7 +157,6 @@ Includes real-time data visualization, financial consultations, and monetization
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Math3wsl3vi&color=blueviolet&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/Math3wsl3vi?style=for-the-badge&color=blue)](https://github.com/Math3wsl3vi)
 [![GitHub Stars](https://img.shields.io/github/stars/Math3wsl3vi?style=for-the-badge&color=yellow)](https://github.com/Math3wsl3vi)
 
