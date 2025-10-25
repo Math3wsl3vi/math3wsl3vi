@@ -130,7 +130,7 @@ https://dev.to/math3wsl3vi/
 
 📫 Let’s Connect!
 - 💼 **Portfolio:** [levikulei.com](levi-kulei.vercel.app)
-- 💼 **BLog:** [Blog]([levi-kulei.vercel.app](https://dev.to/math3wsl3vi/))
+- 💼 **BLog:** [Blog](https://dev.to/math3wsl3vi/)
 - 📧 **Email:** [levimathews9841@gmail.com](mailto:levimathews9841@gmail.com)
 - 🔗 **GitHub:** [@Math3wsl3vi](https://github.com/Math3wsl3vi)
 - 💼 **LinkedIn:** [math3wsl3vi](https://www.linkedin.com/in/levi-mathews-math3wsl3vi/)
