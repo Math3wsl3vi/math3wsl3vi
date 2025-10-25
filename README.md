@@ -64,40 +64,49 @@ Currently innovating at **Kabarak University** and interning at **Mantle Kenya**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 🌍 Featured Projects
-🏥 RiviaMed
+### 📊 [RiviaMed](https://riviamedsystem.vercel.app/)
+A comprehensive hospital management system streamlining workflows from reception to pharmacy. Includes patient record management, billing, appointment scheduling, and an integrated prescription reminder app.
 
-A comprehensive hospital management system streamlining workflows from reception to pharmacy.
-It includes patient record management, billing, appointment scheduling, and an integrated prescription reminder app.
-🛠️ Next.js · Firebase · PostgreSQL · React Native
+🛠️ Tech Stack: Next.js · Firebase · PostgreSQL · React Native
 
-💻 Mantle Telemedicine
 
-A virtual healthcare platform enabling patients to consult doctors online, manage prescriptions, and receive digital health insights.
-Built for reliability, security, and accessibility.
-🛠️ React · Firebase · Node.js · Express
 
-🤝 TumaLock Deal
 
-A secure escrow platform facilitating safe online transactions between buyers and sellers in Kenya.
-Features automated escrow release, real-time verification, and M-Pesa integration.
-🛠️ TypeScript · Express · Firebase · M-Pesa API
+### 💻  [Mantle Telemedicine](https://mantle-telemedicine.vercel.app/)
+A virtual healthcare platform enabling patients to consult doctors online, manage prescriptions, and receive digital health insights. Built for reliability, security, and accessibility.
 
-🍽️ ChakulaHub
+🛠️ Tech Stack: React · Firebase · Node.js · Express
 
-A mess food booking web app helping users easily view, book, and pay for meals while assisting mess admins with inventory and orders.
-🛠️ Next.js (App Router) · Firebase · PWA
 
-🌿 Carbon & Soil Loop
 
-An environmental data platform helping farmers and organizations track soil health and carbon sequestration.
-Promotes climate-smart agriculture through data-driven insights.
-🛠️ React · Node.js · Firebase · Python
+### 🤝 [Tumalock Deal](https://www.tumalock.com/)
+A secure escrow platform facilitating safe online transactions between buyers and sellers in Kenya. Features automated escrow release, real-time verification, and M-Pesa integration.
 
-💰 Hazina Finance
+🛠️ Tech Stack: TypeScript · Express · Firebase · M-Pesa API
 
-A personal and business finance system for budgeting, saving, investing, and analytics.
-Includes real-time data visualization, financial consultations, and monetization through digital products.
-🛠️ Next.js · Express · Firebase · Recharts
+
+### 🍽️ [ ChakulaHub](https://www.chakulahub.co.ke/)
+A mess food booking web app helping users easily view, book, and pay for meals while assisting mess admins with inventory and orders management.
+
+🛠️ Tech Stack: Next.js (App Router) · Firebase · PWA
+
+
+
+
+### 🌿 [ Carbon & Soil Loop](https://www.carbonsoil.africa/)
+An environmental data platform helping farmers and organizations track soil health and carbon sequestration. Promotes climate-smart agriculture through data-driven insights.
+
+🛠️ Tech Stack: React · Node.js · Firebase · Python
+
+
+### 💰 [Hazina Finance]([https://www.carbonsoil.africa/](https://hazina-financial-app.vercel.app/))
+A personal and business finance system for budgeting, saving, investing, and analytics. Includes real-time data visualization, financial consultations, and monetization through digital products.
+
+🛠️ Tech Stack: Next.js · Express · Firebase · Recharts
+
+
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
