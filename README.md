@@ -133,10 +133,10 @@ A personal and business finance system for budgeting, saving, investing, and ana
 
 
 📫 Let’s Connect!
-- 💼 **Portfolio:** [fakiiahmad.com](levi-kulei.vercel.app)
-- 📧 **Email:** [fakiiahmad001@gmail.com](mailto:levimathews9841@gmail.com)
+- 💼 **Portfolio:** [levikulei.com](levi-kulei.vercel.app)
+- 📧 **Email:** [levimathews9841@gmail.com](mailto:levimathews9841@gmail.com)
 - 🔗 **GitHub:** [@Math3wsl3vi](https://github.com/Math3wsl3vi)
-- 💼 **LinkedIn:** [Fakii Ahmad](https://www.linkedin.com/in/levi-mathews-math3wsl3vi/)
+- 💼 **LinkedIn:** [math3wsl3vi](https://www.linkedin.com/in/levi-mathews-math3wsl3vi/)
 ---
 
 <div align="center">
