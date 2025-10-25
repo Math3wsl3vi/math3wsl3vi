@@ -99,7 +99,7 @@ An environmental data platform helping farmers and organizations track soil heal
 🛠️ Tech Stack: React · Node.js · Firebase · Python
 
 
-### 💰 [Hazina Finance]([https://www.carbonsoil.africa/](https://hazina-financial-app.vercel.app/))
+### 💰 [Hazina Finance](https://hazina-financial-app.vercel.app/)
 A personal and business finance system for budgeting, saving, investing, and analytics. Includes real-time data visualization, financial consultations, and monetization through digital products.
 
 🛠️ Tech Stack: Next.js · Express · Firebase · Recharts
@@ -143,25 +143,19 @@ A personal and business finance system for budgeting, saving, investing, and ana
 
 ## ✨ What I Bring to the Table
 
-✅ **User-Centric Development** - Focus on accessibility, performance, and responsive design  
-✅ **Problem-Solving** - Breaking down complex problems into scalable solutions  
-✅ **Collaboration** - Experience with globally distributed teams and open-source  
-✅ **Continuous Learning** - Passionate about emerging technologies and best practices  
-✅ **Technical Advocacy** - Dedicated to code quality, testing, and documentation
+
+✅ **Analytical Thinking** - Transform complex challenges into efficient, scalable solutions 
+✅ **Lifelong Learning** - Enthusiastic about staying updated with new technologies and industry standards
+✅ **Team Collaboration** - Skilled at working with global teams and contributing to open-source projects 
+✅ **Code Excellence** - Committed to clean code, thorough testing, and clear documentation
+✅ **User-Focused Development** - Prioritize accessibility, speed, and seamless responsiveness
+
 
 📫 Let’s Connect!
-
-💼 Portfolio: levi-kulei.vercel.app
-
-📧 Email: levimathews9841@gmail.com
-
-
-🔗 GitHub: @Math3wsl3vi
-
-💼 LinkedIn: math3wsl3vi
-
-📄 Resume: Download Here
-
+- 💼 **Portfolio:** [fakiiahmad.com](levi-kulei.vercel.app)
+- 📧 **Email:** [fakiiahmad001@gmail.com](mailto:levimathews9841@gmail.com)
+- 🔗 **GitHub:** [@Math3wsl3vi](https://github.com/Math3wsl3vi)
+- 💼 **LinkedIn:** [Fakii Ahmad](https://www.linkedin.com/in/levi-mathews-math3wsl3vi/)
 ---
 
 <div align="center">
