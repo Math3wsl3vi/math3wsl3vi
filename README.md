@@ -16,12 +16,13 @@ Fullstack Engineer | UI/UX Designer | Mobile Developer | ML Enthusiast | Jazz Pi
 
 Currently innovating at **Kabarak University** and interning at **Mantle Kenya**, I transform complex problems into elegant, user-centered solutions. Passionate about building high-performance web and mobile applications that make a real-world impact.
 
-### 💡 Real Talk
-- 👨🏻‍💻 Currently building: **AmiTech Donation Web** with Mpesa integration
+### 💡 Real Rap
+- 👨🏻‍💻 Currently building: **Sematicca**
 - 🤖 Exploring: Machine Learning & AI-powered healthcare solutions
-- 🌍 Working with: Globally distributed teams & open-source communities
-- 💬 Ask me about: React, Flutter, Node.js, or anything tech!
-- 🐧 Love: Linux development, accessibility, and performance optimization
+- 🌍 Looking For: Jobs and internships abroad
+- 💬 Ask me about: Anything React!
+- 🚀 Working on a startup
+
 
 ## 🛠️ Tech Stack
 
@@ -156,8 +157,6 @@ Includes real-time data visualization, financial consultations, and monetization
 
 <div align="center">
   
-### 💻 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Math3wsl3vi&color=blueviolet&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/Math3wsl3vi?style=for-the-badge&color=blue)](https://github.com/Math3wsl3vi)
 [![GitHub Stars](https://img.shields.io/github/stars/Math3wsl3vi?style=for-the-badge&color=yellow)](https://github.com/Math3wsl3vi)
