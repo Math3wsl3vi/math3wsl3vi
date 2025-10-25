@@ -2,19 +2,16 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fakii-ahmad)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fakiiahmad)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fakiiahmad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://fakiiahmad.com)
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://blog.fakiiahmad.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-mathews-math3wsl3vi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://levi-kulei.vercel.app/)
 
 </div>
 
 ## 🚀 About Me
 
-Fullstack Engineer | UI/UX Designer | Mobile Developer | ML Enthusiast | Jazz Pianist
+Fullstack Engineer | UI/UX Designer | Mobile Developer | Frontend Developer 
 
-Currently innovating at **Kabarak University** and interning at **Mantle Kenya**, I transform complex problems into elegant, user-centered solutions. Passionate about building high-performance web and mobile applications that make a real-world impact.
+Currently studying at **Kabarak University** and interning at **Mantle Kenya**, I transform complex problems into elegant, user-centered solutions. Passionate about building high-performance web and mobile applications that make a real-world impact.
 
 ### 💡 Real Rap
 - 👨🏻‍💻 Currently building: **Sematicca**
