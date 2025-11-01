@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Fullstack Engineer | UI/UX Designer | Mobile Developer | Frontend Developer | ML Enthusiast
+Fullstack & DevOps Engineer | Cloud Infrastructure | CI/CD & Automation | Mobile & Web Systems
 
 Currently studying at **Kabarak University** and interning at **Mantle Kenya**, I transform complex problems into elegant, user-centered solutions. Passionate about building high-performance web and mobile applications that make a real-world impact.
 
