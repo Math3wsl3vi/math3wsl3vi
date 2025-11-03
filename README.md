@@ -84,7 +84,7 @@ A secure escrow platform facilitating safe online transactions between buyers an
 
 
 ### 🍽️ [ ChakulaHub](https://www.chakulahub.co.ke/)
-A mess food booking web app helping users easily view, book, and pay for meals while assisting mess admins with inventory and orders management.
+A mess food booking web app helping users easily view, book, and pay for meals while assisting mess admins with inventory and orders.
 
 🛠️ Tech Stack: Next.js (App Router) · Firebase · PWA
 
