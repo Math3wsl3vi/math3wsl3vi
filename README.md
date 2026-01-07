@@ -124,8 +124,8 @@ A personal and business finance system for budgeting, saving, investing, and ana
 ## 🔥 Streak Stats
 
 <div align="left">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Math3wsl3vi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Math3wsl3vi&theme=tokyonight&hide_border=true)
+
 
 </div>
  
