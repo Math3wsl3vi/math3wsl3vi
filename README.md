@@ -98,15 +98,6 @@ An environmental data platform helping farmers and organizations track soil heal
 🛠️ Tech Stack: React · Node.js · Firebase · Python
 
 
-### 💰 [Hazina Finance](https://hazina-financial-app.vercel.app/)
-A personal and business finance system for budgeting, saving, investing, and analytics. Includes real-time data visualization, financial consultations, and monetization through digital products.
-
-🛠️ Tech Stack: Next.js · Express · Firebase · Recharts
-
-
-
-
-
  <div align="left">
 
 <a href="https://github.com/Math3wsl3vi">
