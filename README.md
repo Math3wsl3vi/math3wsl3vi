@@ -14,13 +14,6 @@
       height="150"
     />
   </a>
-
-  <a href="https://github.com/Math3wsl3vi">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3wsl3vi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-      height="150"
-    />
-  </a>
 </div>
 
 <br />
