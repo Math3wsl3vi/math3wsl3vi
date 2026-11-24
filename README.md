@@ -1,4 +1,4 @@
-## 👋 Hi
+## 👋 Greetings
 
 <div align="center">
   <a href="https://github.com/Math3wsl3vi">
